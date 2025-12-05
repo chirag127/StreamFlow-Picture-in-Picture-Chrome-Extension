@@ -1,0 +1,22 @@
+badges:
+  - name: Build Status
+    image: https://img.shields.io/github/actions/workflow/user/chirag127/StreamFlow-Picture-in-Picture-Chrome-Extension/ci.yml?branch=main&style=flat-square
+    url: https://github.com/chirag127/StreamFlow-Picture-in-Picture-Chrome-Extension/actions/workflows/ci.yml
+  - name: Code Coverage
+    image: https://codecov.io/gh/chirag127/StreamFlow-Picture-in-Picture-Chrome-Extension/branch/main/graphs/badge.svg?style=flat-square
+    url: https://codecov.io/gh/chirag127/StreamFlow-Picture-in-Picture-Chrome-Extension
+  - name: Tech Stack (JavaScript)
+    image: https://img.shields.io/badge/Tech%20Stack-JavaScript-informational?style=flat-square&logo=javascript
+    url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  - name: Tech Stack (HTML)
+    image: https://img.shields.io/badge/Tech%20Stack-HTML5-informational?style=flat-square&logo=html5
+    url: https://developer.mozilla.org/en-US/docs/Web/HTML
+  - name: Tech Stack (CSS)
+    image: https://img.shields.io/badge/Tech%20Stack-CSS3-informational?style=flat-square&logo=css3
+    url: https://developer.mozilla.org/en-US/docs/Web/CSS
+  - name: License (CC BY-NC 4.0)
+    image: https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue?style=flat-square
+    url: https://creativecommons.org/licenses/by-nc/4.0/
+  - name: GitHub Stars
+    image: https://img.shields.io/github/stars/chirag127/StreamFlow-Picture-in-Picture-Chrome-Extension?style=flat-square
+    url: https://github.com/chirag127/StreamFlow-Picture-in-Picture-Chrome-Extension/stargazers
