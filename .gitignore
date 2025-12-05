@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output
+dist/
+build/
+out/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+
+# Test files
+coverage/
+*.test.js
+*.spec.js
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+*.log
+npm-*.log
+yarn-*.log
+
+# Other
+.DS_Store
+Thumbs.db
+*.patch
+*.swp
